@@ -39,6 +39,8 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+
+  grid-column: 6 / 96;
 }
 
 .top {
