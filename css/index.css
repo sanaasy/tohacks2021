@@ -60,6 +60,18 @@
   grid-row: 76 / 96;
 }
 
-#green {
-  background-color: #8FB498;
+#yellow {
+  background-color: #ffff5b;
+}
+
+#orange {
+  background-color: #fcaf17;
+}
+
+#red {
+  background-color: #cd0000;
+}
+
+#grey {
+  background-color: #666666;
 }
